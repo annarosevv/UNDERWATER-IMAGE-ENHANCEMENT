@@ -21,13 +21,7 @@ The algorithm utilizes a combination of techniques including color correction, c
 - OpenCV 
 - NumPy 
 
-## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/underwater-image-enhancement.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the main script: `python enhance_image.py --input path/to/input/image.jpg --output path/to/output/image.jpg`
-
-Please refer to the documentation or code comments for more detailed usage instructions and options.
 
 ## Results
 
